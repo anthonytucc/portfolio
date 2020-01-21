@@ -11,7 +11,8 @@ const Header = props => (
         <h1>Coming Soon!</h1>
         <p>
           <strong>
-          This site is currently under construction. Please visit again soon to see my portfolio.
+            This site is currently under construction. Please visit again soon
+            to see my portfolio.
           </strong>
         </p>
       </div>
